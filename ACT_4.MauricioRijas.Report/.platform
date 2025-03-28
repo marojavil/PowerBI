@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "ACT_4.MauricioRijas"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4efd4792-a196-4fb8-a586-5e0a636d9b00"
+  }
+}
